@@ -1,18 +1,18 @@
 {
     "bot-account":{ 
-        "username": "ChunkLoader",
+        "username": "DarkGamerV2",
         "password": "",
-        "type": "mojang"
+        "type": "cracked"
     },
 
     "server":{
-        "ip": "owariuk.mc-srv.com",
-        "port": 26232,
+        "ip": "ult8.falix.gg",
+        "port": 37118,
         "version": "1.18.1"
     },
 
     "position":{
-        "enabled": true,
+        "enabled": false,
         "x": 23,
         "y": 102,
         "z": 4171
@@ -26,23 +26,20 @@
 
         "anti-afk":{
             "enabled": true,
-            "sneak": true
+            "sneak": false
         },
 
         "chat-messages":{
             "enabled": true,
-            "repeat": true,
+            "repeat": false,
             "repeat-delay": 360,
 
             "messages": [
-                "Hai Semuwa ", 
-                "SanZ Gay ", 
-                "Cookie Tolol", 
-                "Test "
+                "/afk", 
             ]
         },
 
-        "chat-log": true,
+        "chat-log": false,
         "auto-reconnect": true
     }
 }
